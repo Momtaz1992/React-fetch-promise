@@ -24,3 +24,16 @@ const Exercise1 = () => {
 }
  
 export default Exercise1;
+/* Exercise 1: Displaying Data from an API
+
+Write a React component that fetches data from an API and displays it on the screen. The API endpoint you should use is:
+
+https://jsonplaceholder.typicode.com/posts
+
+Each post in the response has the following properties:
+
+userId: ID of the user who created the post
+id: ID of the post
+title: Title of the post
+body: Content of the post
+You should display the title and body of each post in a list on the screen. */
